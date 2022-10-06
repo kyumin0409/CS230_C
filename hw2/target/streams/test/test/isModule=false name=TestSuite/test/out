@@ -1,0 +1,18 @@
+[0m[[0minfo[0m] [0m[32mTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- map2 with add[0m[0m
+[0m[[0minfo[0m] [0m[32m- map2 test 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- map2 test 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- zip test 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- zip test 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- zip test 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- zip test 4[0m[0m
+[0m[[0minfo[0m] [0m[32m- flatten test[0m[0m
+[0m[[0minfo[0m] [0m[32m- flatten3 test[0m[0m
+[0m[[0minfo[0m] [0m[32m- buildList test 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- buildList test 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- buildList test 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- mapList test[0m[0m
+[0m[[0minfo[0m] [0m[32m- partition test 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- partition test 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- partition test 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- partition test 4[0m[0m

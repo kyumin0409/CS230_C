@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0m[32mProvidedTests:[0m[0m
+[0m[[0minfo[0m] [0m[32m- It would be convenient if we could build a path by using / to separate strings[0m[0m
+[0m[[0minfo[0m] [0m[32m- The / operator should be able to put two paths together too[0m[0m
+[0m[[0minfo[0m] [0m[32m- Paths should have a .write method to create files[0m[0m
+[0m[[0minfo[0m] [0m[32m- Paths should have a .read method to read files[0m[0m
+[0m[[0minfo[0m] [0m[32m- Paths should have a .append method to append data to the end of a file[0m[0m
+[0m[[0minfo[0m] [0m[32m- This is a convenient way of writing a date in the current year[0m[0m
+[0m[[0minfo[0m] [0m[32m- We can write dates in other years like this[0m[0m
+[0m[[0minfo[0m] [0m[32m- We can add days to a date[0m[0m
+[0m[[0minfo[0m] [0m[32m- We can add days to a date written using our date DSL[0m[0m
+[0m[[0minfo[0m] [0m[32m- We can add months to a date[0m[0m
+[0m[[0minfo[0m] [0m[32m- We can add years to a date[0m[0m

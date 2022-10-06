@@ -1,0 +1,31 @@
+compile
+~test
+console
+compile
+~test
+console
+compile
+~test
+console
+compile
+test
+~test
+console
+~test
+console
+import hw.parsing._
+import scala.util.parsing.combinator._
+import ArithEval._
+import ArithParser._
+console
+compile
+console
+compile
+~compile
+console
+compile
+~compile
+console
+compile
+submit
+console

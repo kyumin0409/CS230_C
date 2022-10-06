@@ -1,0 +1,15 @@
+compile
+~test
+console
+compile
+~compile
+console
+~test
+console
+~test
+exit
+~test
+compile
+test
+submit
+exit

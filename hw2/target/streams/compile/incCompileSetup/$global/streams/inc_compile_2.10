@@ -1,0 +1,131 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/student/hw2/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+/home/student/hw2/src/main/scala/Homework2.scala -> /home/student/hw2/target/scala-2.10/classes/Homework2$.class
+/home/student/hw2/src/main/scala/Homework2.scala -> /home/student/hw2/target/scala-2.10/classes/Homework2.class
+binary dependencies:
+2 items
+/home/student/hw2/src/main/scala/Homework2.scala -> /home/student/.sbt/boot/scala-2.10.5/lib/scala-library.jar
+/home/student/hw2/src/main/scala/Homework2.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+/home/student/hw2/src/main/scala/Homework2.scala -> Homework2
+/home/student/hw2/src/main/scala/Homework2.scala -> Homework2$
+used names:
+53 items
+/home/student/hw2/src/main/scala/Homework2.scala -> +
+/home/student/hw2/src/main/scala/Homework2.scala -> ::
+/home/student/hw2/src/main/scala/Homework2.scala -> <init>
+/home/student/hw2/src/main/scala/Homework2.scala -> ==
+/home/student/hw2/src/main/scala/Homework2.scala -> >=
+/home/student/hw2/src/main/scala/Homework2.scala -> A
+/home/student/hw2/src/main/scala/Homework2.scala -> Any
+/home/student/hw2/src/main/scala/Homework2.scala -> AnyRef
+/home/student/hw2/src/main/scala/Homework2.scala -> B
+/home/student/hw2/src/main/scala/Homework2.scala -> Boolean
+/home/student/hw2/src/main/scala/Homework2.scala -> C
+/home/student/hw2/src/main/scala/Homework2.scala -> Function1
+/home/student/hw2/src/main/scala/Homework2.scala -> Function2
+/home/student/hw2/src/main/scala/Homework2.scala -> Homework2
+/home/student/hw2/src/main/scala/Homework2.scala -> Int
+/home/student/hw2/src/main/scala/Homework2.scala -> List
+/home/student/hw2/src/main/scala/Homework2.scala -> Nil
+/home/student/hw2/src/main/scala/Homework2.scala -> Nothing
+/home/student/hw2/src/main/scala/Homework2.scala -> Tuple2
+/home/student/hw2/src/main/scala/Homework2.scala -> _1
+/home/student/hw2/src/main/scala/Homework2.scala -> _2
+/home/student/hw2/src/main/scala/Homework2.scala -> _root_
+/home/student/hw2/src/main/scala/Homework2.scala -> append
+/home/student/hw2/src/main/scala/Homework2.scala -> apply
+/home/student/hw2/src/main/scala/Homework2.scala -> asInstanceOf
+/home/student/hw2/src/main/scala/Homework2.scala -> buildListHelper
+/home/student/hw2/src/main/scala/Homework2.scala -> error
+/home/student/hw2/src/main/scala/Homework2.scala -> f
+/home/student/hw2/src/main/scala/Homework2.scala -> flatten
+/home/student/hw2/src/main/scala/Homework2.scala -> flatten3
+/home/student/hw2/src/main/scala/Homework2.scala -> head
+/home/student/hw2/src/main/scala/Homework2.scala -> head1
+/home/student/hw2/src/main/scala/Homework2.scala -> head2
+/home/student/hw2/src/main/scala/Homework2.scala -> immutable
+/home/student/hw2/src/main/scala/Homework2.scala -> index
+/home/student/hw2/src/main/scala/Homework2.scala -> isInstanceOf
+/home/student/hw2/src/main/scala/Homework2.scala -> length
+/home/student/hw2/src/main/scala/Homework2.scala -> listLength
+/home/student/hw2/src/main/scala/Homework2.scala -> lst
+/home/student/hw2/src/main/scala/Homework2.scala -> lst1
+/home/student/hw2/src/main/scala/Homework2.scala -> lst2
+/home/student/hw2/src/main/scala/Homework2.scala -> map2
+/home/student/hw2/src/main/scala/Homework2.scala -> mapList
+/home/student/hw2/src/main/scala/Homework2.scala -> ne
+/home/student/hw2/src/main/scala/Homework2.scala -> package
+/home/student/hw2/src/main/scala/Homework2.scala -> partitionFalse
+/home/student/hw2/src/main/scala/Homework2.scala -> partitionTrue
+/home/student/hw2/src/main/scala/Homework2.scala -> scala
+/home/student/hw2/src/main/scala/Homework2.scala -> sys
+/home/student/hw2/src/main/scala/Homework2.scala -> tail
+/home/student/hw2/src/main/scala/Homework2.scala -> tail1
+/home/student/hw2/src/main/scala/Homework2.scala -> tail2
+/home/student/hw2/src/main/scala/Homework2.scala -> zip
+product stamps:
+2 items
+/home/student/hw2/target/scala-2.10/classes/Homework2$.class -> lastModified(1454905892000)
+/home/student/hw2/target/scala-2.10/classes/Homework2.class -> lastModified(1454905892000)
+source stamps:
+1 items
+/home/student/hw2/src/main/scala/Homework2.scala -> hash(f54d4b8c731a93668d40d4874f3fd1fa144ff605)
+binary stamps:
+2 items
+/home/student/.sbt/boot/scala-2.10.5/lib/scala-library.jar -> lastModified(1425520576000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1453434020000)
+class names:
+2 items
+/home/student/.sbt/boot/scala-2.10.5/lib/scala-library.jar -> scala.Function2
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/student/hw2/src/main/scala/Homework2.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDFyqVfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cI+59i90AAZub3RpZnlzcQB+AAxBQG27dAAHZmxhdHRlbnNxAH4ADLeQwUx0AAR3YWl0c3EAfgAM8V9eEXQADSRhc0luc3RhbmNlT2ZzcQB+AAzfpwLGdAADemlwc3EAfgAMF43wUHQACWJ1aWxkTGlzdHNxAH4ADFcK54t0AAlIb21ld29yazJzcQB+AAx1SGQidAAGZXF1YWxzc3EAfgAMwqgOTnQACGZsYXR0ZW4zc3EAfgAMDgsnoHQADXBhcnRpdGlvblRydWVzcQB+AAxCiFFUdAAMYXNJbnN0YW5jZU9mc3EAfgAMycMenXQADnBhcnRpdGlvbkZhbHNlc3EAfgAMDsvNuHQADHN5bmNocm9uaXplZHNxAH4ADKbrNod0AAlwYXJ0aXRpb25zcQB+AAy2RYDZdAANJGlzSW5zdGFuY2VPZnNxAH4ADIvX9S50AAlub3RpZnlBbGxzcQB+AAz/WT37dAAMaXNJbnN0YW5jZU9mc3EAfgAMz1wMG3QACmxpc3RMZW5ndGhzcQB+AAzwKhDFdAACPT1zcQB+AAz5Nfm5dAAFY2xvbmVzcQB+AAyC7blpdAAPYnVpbGRMaXN0SGVscGVyc3EAfgAMVWjQj3QACHRvU3RyaW5nc3EAfgAMfF1uz3QAAiE9c3EAfgAMXRWU0HQAB21hcExpc3RzcQB+AAw2CZ3CdAAIZ2V0Q2xhc3NzcQB+AAwi2s9PdAAEbWFwMnNxAH4ADLvZMIh0AAJuZXNxAH4ADDN54+J0AAJlcXNxAH4ADNDop+90AAIjI3NxAH4ADNSy03Z0AAhmaW5hbGl6ZXNxAH4ADJHhWP10AAhoYXNoQ29kZXNxAH4ADCVDtD10AAZhcHBlbmRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ABt1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBuAHBzcQB+AHNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgB3c3EAfgBuAHBzcQB+AHN1cQB+AFIAAAAAc3EAfgBuAHBzcQB+AHN1cQB+AFIAAAAAc3EAfgBuAHBzcQB+AHN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHZ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AJN0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJRzcQB+AId0AANBbnlzcQB+AItzcQB+AI51cQB+AJEAAAACc3EAfgCTdAAFc2NhbGFxAH4AmnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFSvyX+1nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ACsvaG9tZS9zdHVkZW50L2h3Mi90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU9U1LjHMak2aNQNSHTz/R+hRP9gU=
+external apis:
+0 items
+source infos:
+1 items
+/home/student/hw2/src/main/scala/Homework2.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUr8l/tZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAKy9ob21lL3N0dWRlbnQvaHcyL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv

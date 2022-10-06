@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="student" name="TestSuite" tests="1" errors="0" failures="1" time="0.148">
+                     <properties>
+      <property name="jline.esc.timeout" value="0"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-oracle/jre/lib/i386"/><property name="java.vm.version" value="25.66-b17"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="path.separator" value=":"/><property name="java.vm.name" value="Java HotSpot(TM) Client VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="US"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value="unknown"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="/home/student/hw7/sudoku"/><property name="java.runtime.version" value="1.8.0_66-b17"/><property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/><property name="java.endorsed.dirs" value="/usr/lib/jvm/java-8-oracle/jre/lib/endorsed"/><property name="os.arch" value="i386"/><property name="java.io.tmpdir" value="/tmp"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="os.name" value="Linux"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="java.library.path" value="/usr/java/packages/lib/i386:/lib:/usr/lib"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot Client Compiler"/><property name="os.version" value="3.13.0-74-generic"/><property name="user.home" value="/home/student"/><property name="user.timezone" value="Etc/UTC"/><property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/><property name="file.encoding" value="UTF-8"/><property name="java.specification.version" value="1.8"/><property name="java.class.path" value="/usr/share/sbt-launcher-packaging/bin/sbt-launch.jar"/><property name="user.name" value="student"/><property name="jline.shutdownhook" value="false"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="/usr/share/sbt-launcher-packaging/bin/sbt-launch.jar"/><property name="java.home" value="/usr/lib/jvm/java-8-oracle/jre"/><property name="sun.arch.data.model" value="32"/><property name="user.language" value="en"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.awt.X11.XToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_66"/><property name="java.ext.dirs" value="/usr/lib/jvm/java-8-oracle/jre/lib/ext:/usr/java/packages/lib/ext"/><property name="sun.boot.class.path" value="/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes"/><property name="java.vendor" value="Oracle Corporation"/><property name="file.separator" value="/"/><property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/><property name="sun.io.unicode.encoding" value="UnicodeLittle"/><property name="sun.cpu.endian" value="little"/><property name="sun.cpu.isalist" value=""/>
+    </properties>
+                     <testcase classname="TestSuite" name="parse test" time="0.148">
+                                                 <failure message="org.scalatest.exceptions.TestFailedException: &quot;....382.5.............5[5348]9.71.&quot; did not equal &quot;....382.5.............5[.34.]9.71.&quot;" type="sbt.ForkMain$ForkError">sbt.ForkMain$ForkError: org.scalatest.exceptions.TestFailedException: &quot;....382.5.............5[5348]9.71.&quot; did not equal &quot;....382.5.............5[.34.]9.71.&quot;
+	at org.scalatest.Assertions$class.newAssertionFailedException(Assertions.scala:500)
+	at org.scalatest.FunSuite.newAssertionFailedException(FunSuite.scala:1555)
+	at org.scalatest.Assertions$AssertionsHelper.macroAssert(Assertions.scala:466)
+	at TestSuite$$anonfun$1.apply$mcV$sp(SudokuTest.scala:27)
+	at TestSuite$$anonfun$1.apply(SudokuTest.scala:5)
+	at TestSuite$$anonfun$1.apply(SudokuTest.scala:5)
+	at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)
+	at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)
+	at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)
+	at org.scalatest.Transformer.apply(Transformer.scala:22)
+	at org.scalatest.Transformer.apply(Transformer.scala:20)
+	at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:166)
+	at org.scalatest.Suite$class.withFixture(Suite.scala:1122)
+	at org.scalatest.FunSuite.withFixture(FunSuite.scala:1555)
+	at org.scalatest.FunSuiteLike$class.invokeWithFixture$1(FunSuiteLike.scala:163)
+	at org.scalatest.FunSuiteLike$$anonfun$runTest$1.apply(FunSuiteLike.scala:175)
+	at org.scalatest.FunSuiteLike$$anonfun$runTest$1.apply(FunSuiteLike.scala:175)
+	at org.scalatest.SuperEngine.runTestImpl(Engine.scala:306)
+	at org.scalatest.FunSuiteLike$class.runTest(FunSuiteLike.scala:175)
+	at org.scalatest.FunSuite.runTest(FunSuite.scala:1555)
+	at org.scalatest.FunSuiteLike$$anonfun$runTests$1.apply(FunSuiteLike.scala:208)
+	at org.scalatest.FunSuiteLike$$anonfun$runTests$1.apply(FunSuiteLike.scala:208)
+	at org.scalatest.SuperEngine$$anonfun$traverseSubNodes$1$1.apply(Engine.scala:413)
+	at org.scalatest.SuperEngine$$anonfun$traverseSubNodes$1$1.apply(Engine.scala:401)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at org.scalatest.SuperEngine.traverseSubNodes$1(Engine.scala:401)
+	at org.scalatest.SuperEngine.org$scalatest$SuperEngine$$runTestsInBranch(Engine.scala:396)
+	at org.scalatest.SuperEngine.runTestsImpl(Engine.scala:483)
+	at org.scalatest.FunSuiteLike$class.runTests(FunSuiteLike.scala:208)
+	at org.scalatest.FunSuite.runTests(FunSuite.scala:1555)
+	at org.scalatest.Suite$class.run(Suite.scala:1424)
+	at org.scalatest.FunSuite.org$scalatest$FunSuiteLike$$super$run(FunSuite.scala:1555)
+	at org.scalatest.FunSuiteLike$$anonfun$run$1.apply(FunSuiteLike.scala:212)
+	at org.scalatest.FunSuiteLike$$anonfun$run$1.apply(FunSuiteLike.scala:212)
+	at org.scalatest.SuperEngine.runImpl(Engine.scala:545)
+	at org.scalatest.FunSuiteLike$class.run(FunSuiteLike.scala:212)
+	at org.scalatest.FunSuite.run(FunSuite.scala:1555)
+	at org.scalatest.tools.Framework.org$scalatest$tools$Framework$$runSuite(Framework.scala:357)
+	at org.scalatest.tools.Framework$ScalaTestTask.execute(Framework.scala:502)
+	at sbt.ForkMain$Run$2.call(ForkMain.java:296)
+	at sbt.ForkMain$Run$2.call(ForkMain.java:286)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+                                               </testcase>
+                     <system-out></system-out>
+                     <system-err></system-err>
+                   </testsuite>

@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mTests:[0m[0m
+[0m[[0minfo[0m] [0m[32m- enqueue test[0m[0m
+[0m[[0minfo[0m] [0m[32m- dequeue test[0m[0m
+[0m[[0minfo[0m] [0m[32m- max test[0m[0m
+[0m[[0minfo[0m] [0m[32m- first test[0m[0m
+[0m[[0minfo[0m] [0m[32m- rest test[0m[0m
+[0m[[0minfo[0m] [0m[32m- nth test[0m[0m
+[0m[[0minfo[0m] [0m[32m- map test[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter test[0m[0m

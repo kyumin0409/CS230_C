@@ -1,0 +1,161 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/student/discussion/disc1/target/scala-2.11/classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -feature
+3 -> -Xfatal-warnings
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+9 items
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> /home/student/discussion/disc1/target/scala-2.11/classes/Excercises$$anonfun$excercise1$1.class
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> /home/student/discussion/disc1/target/scala-2.11/classes/Excercises$$anonfun$excercise3$1.class
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> /home/student/discussion/disc1/target/scala-2.11/classes/Excercises$.class
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> /home/student/discussion/disc1/target/scala-2.11/classes/Excercises$Bird.class
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> /home/student/discussion/disc1/target/scala-2.11/classes/Excercises$Duck$.class
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> /home/student/discussion/disc1/target/scala-2.11/classes/Excercises$Duck.class
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> /home/student/discussion/disc1/target/scala-2.11/classes/Excercises$Goose$.class
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> /home/student/discussion/disc1/target/scala-2.11/classes/Excercises$Goose.class
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> /home/student/discussion/disc1/target/scala-2.11/classes/Excercises.class
+binary dependencies:
+2 items
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> /home/student/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+9 items
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Excercises
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Excercises$
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Excercises$$anonfun$excercise1$1
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Excercises$$anonfun$excercise3$1
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Excercises$Bird
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Excercises$Duck
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Excercises$Duck$
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Excercises$Goose
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Excercises$Goose$
+used names:
+48 items
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> &&
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> +
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> ::
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> <init>
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> ==
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> A
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> AbstractFunction0
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> AnyRef
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> B
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Bird
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Duck
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Excercises
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Function1
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Function2
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Goose
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Int
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> List
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Nil
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Predef
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Product
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> ScalaRunTime
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> Serializable
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> String
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> _hashCode
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> _root_
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> _toString
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> acc
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> add
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> apply
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> asInstanceOf
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> b
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> bird
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> f
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> fold
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> h
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> head
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> i
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> immutable
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> isInstanceOf
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> lst
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> map
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> package
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> runtime
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> scala
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> tail
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> toString
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> typedProductIterator
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> xs
+product stamps:
+9 items
+/home/student/discussion/disc1/target/scala-2.11/classes/Excercises$$anonfun$excercise1$1.class -> lastModified(1454522941000)
+/home/student/discussion/disc1/target/scala-2.11/classes/Excercises$$anonfun$excercise3$1.class -> lastModified(1454522941000)
+/home/student/discussion/disc1/target/scala-2.11/classes/Excercises$.class -> lastModified(1454522941000)
+/home/student/discussion/disc1/target/scala-2.11/classes/Excercises$Bird.class -> lastModified(1454522941000)
+/home/student/discussion/disc1/target/scala-2.11/classes/Excercises$Duck$.class -> lastModified(1454522941000)
+/home/student/discussion/disc1/target/scala-2.11/classes/Excercises$Duck.class -> lastModified(1454522941000)
+/home/student/discussion/disc1/target/scala-2.11/classes/Excercises$Goose$.class -> lastModified(1454522941000)
+/home/student/discussion/disc1/target/scala-2.11/classes/Excercises$Goose.class -> lastModified(1454522941000)
+/home/student/discussion/disc1/target/scala-2.11/classes/Excercises.class -> lastModified(1454522941000)
+source stamps:
+1 items
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> hash(ad7cd5972a17db7e9f0cf958bfa0ce543d570d41)
+binary stamps:
+2 items
+/home/student/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1438617866000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1453434020000)
+class names:
+2 items
+/home/student/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Product
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAwbvUQAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGvhH3x0AAZub3RpZnlzcQB+AAxqIm8vdAAHdW5hcHBseXNxAH4ADC2AXVx0AAR3YWl0c3EAfgAMAHsw4HQADSRhc0luc3RhbmNlT2ZzcQB+AAwxrdi1dAADbWFwc3EAfgAMasBl4nQADHByb2R1Y3RBcml0eXNxAH4ADPeDTtR0AAZlcXVhbHNzcQB+AAzaFYLfdAAMYXNJbnN0YW5jZU9mc3EAfgAMcKoYnXQADHN5bmNocm9uaXplZHNxAH4ADOb0PSN0AA0kaXNJbnN0YW5jZU9mc3EAfgAMp9EcfnQACmV4Y2VyY2lzZTNzcQB+AAxQrnvvdAAEZm9sZHNxAH4ADEAF5iV0AAVHb29zZXNxAH4ADK+pWsF0AAhjYW5FcXVhbHNxAH4ADIq2m2t0AA1wcm9kdWN0UHJlZml4c3EAfgAMadS5YnQACW5vdGlmeUFsbHNxAH4ADPmmGBZ0AAtyZWFkUmVzb2x2ZXNxAH4ADPW8F/p0AAxpc0luc3RhbmNlT2ZzcQB+AAxDLmMsdAAEQmlyZHNxAH4ADDhaGdp0AAY8aW5pdD5zcQB+AAz/FZOvdAAFYXBwbHlzcQB+AAy1nxNrdAACPT1zcQB+AAykghM0dAAERHVja3NxAH4ADGvmlcx0AAVjbG9uZXNxAH4ADHvwWB10AARjb3B5c3EAfgAM7cAyHnQACHRvU3RyaW5nc3EAfgAMdEukvnQAAiE9c3EAfgAMVoTfgXQACGdldENsYXNzc3EAfgAMVfYHyHQACmV4Y2VyY2lzZTFzcQB+AAyCLsYzdAAKRXhjZXJjaXNlc3NxAH4ADBzVA+h0AAJuZXNxAH4ADHHN4oJ0AAJlcXNxAH4ADJ/AGEF0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwes33MdAACIyNzcQB+AAyqSWd4dAAIZmluYWxpemVzcQB+AAwr7chkdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAwVX/2QdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBheHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AEl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AHgBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGFMAAlpbmhlcml0ZWRxAH4AYUwAB3BhcmVudHNxAH4AYXhxAH4Af3NxAH4AeAF1cQB+AFwAAAAAcHNxAH4AeAF1cQB+AFwAAAAAcHNxAH4AeAF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AH50AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AH5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AJd0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJhzcQB+AIt0AANBbnlzcQB+AI9zcQB+AJJ1cQB+AJUAAAACc3EAfgCXdAAFc2NhbGFxAH4AnnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVKoUrqkdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOC9ob21lL3N0dWRlbnQvZGlzY3Vzc2lvbi9kaXNjMS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUrXzVlyoX236fDPlYv6DOVD1XDUE=
+external apis:
+0 items
+source infos:
+1 items
+/home/student/discussion/disc1/src/main/scala/Excercises.scala -> 
+AAAAAAAAAAA=
+compilations:
+11 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqf74mt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9ob21lL3N0dWRlbnQvZGlzY3Vzc2lvbi9kaXNjMS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqgBcw51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9ob21lL3N0dWRlbnQvZGlzY3Vzc2lvbi9kaXNjMS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqgJxnl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9ob21lL3N0dWRlbnQvZGlzY3Vzc2lvbi9kaXNjMS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqgM1pZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9ob21lL3N0dWRlbnQvZGlzY3Vzc2lvbi9kaXNjMS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqgOqRx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9ob21lL3N0dWRlbnQvZGlzY3Vzc2lvbi9kaXNjMS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqgPKCB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9ob21lL3N0dWRlbnQvZGlzY3Vzc2lvbi9kaXNjMS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqhNfG51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9ob21lL3N0dWRlbnQvZGlzY3Vzc2lvbi9kaXNjMS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqhOCil1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9ob21lL3N0dWRlbnQvZGlzY3Vzc2lvbi9kaXNjMS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqhOpJF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9ob21lL3N0dWRlbnQvZGlzY3Vzc2lvbi9kaXNjMS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqhQhOR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9ob21lL3N0dWRlbnQvZGlzY3Vzc2lvbi9kaXNjMS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqhSuqR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9ob21lL3N0dWRlbnQvZGlzY3Vzc2lvbi9kaXNjMS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

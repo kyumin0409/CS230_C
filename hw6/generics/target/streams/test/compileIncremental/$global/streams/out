@@ -1,0 +1,71 @@
+[0m[[0mdebug[0m] [0mThe Node source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, unapply, x, wait, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, canEqual, productPrefix, notifyAll, readResolve, isInstanceOf, <init>, apply, ==, clone, copy, toString, !=, getClass, copy$default$1, ne, OInt, eq, compare, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mFiles invalidated by inheriting from (external) Node: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0mGetting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0mGetting sources that directly depend on (external) Node.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/student/hw6/generics/src/test/scala/TestSuite.scala: Set(x, asInstanceOf, isInstanceOf, <init>, apply, ==, toString, OInt, eq)[0m
+[0m[[0mdebug[0m] [0mThe Node$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, unapply, x, wait, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, canEqual, productPrefix, notifyAll, readResolve, isInstanceOf, <init>, apply, ==, clone, copy, toString, !=, getClass, copy$default$1, ne, OInt, eq, compare, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mFiles invalidated by inheriting from (external) Node$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0mGetting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0mGetting sources that directly depend on (external) Node$.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/student/hw6/generics/src/test/scala/TestSuite.scala: Set(x, asInstanceOf, isInstanceOf, <init>, apply, ==, toString, OInt, eq)[0m
+[0m[[0mdebug[0m] [0mThe ListFunctions$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, unapply, x, wait, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, canEqual, productPrefix, notifyAll, readResolve, isInstanceOf, <init>, apply, ==, clone, copy, toString, !=, getClass, copy$default$1, ne, OInt, eq, compare, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mFiles invalidated by inheriting from (external) ListFunctions$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0mGetting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0mGetting sources that directly depend on (external) ListFunctions$.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/student/hw6/generics/src/test/scala/TestSuite.scala: Set(x, asInstanceOf, isInstanceOf, <init>, apply, ==, toString, OInt, eq)[0m
+[0m[[0mdebug[0m] [0mThe Leaf$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, unapply, x, wait, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, canEqual, productPrefix, notifyAll, readResolve, isInstanceOf, <init>, apply, ==, clone, copy, toString, !=, getClass, copy$default$1, ne, OInt, eq, compare, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mFiles invalidated by inheriting from (external) Leaf$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0mGetting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0mGetting sources that directly depend on (external) Leaf$.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/student/hw6/generics/src/test/scala/TestSuite.scala: Set(x, asInstanceOf, isInstanceOf, <init>, apply, ==, toString, OInt, eq)[0m
+[0m[[0mdebug[0m] [0mThe BinTree source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, unapply, x, wait, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, canEqual, productPrefix, notifyAll, readResolve, isInstanceOf, <init>, apply, ==, clone, copy, toString, !=, getClass, copy$default$1, ne, OInt, eq, compare, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mFiles invalidated by inheriting from (external) BinTree: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0mGetting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0mGetting sources that directly depend on (external) BinTree.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/student/hw6/generics/src/test/scala/TestSuite.scala: Set(x, asInstanceOf, isInstanceOf, <init>, apply, ==, toString, OInt, eq)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set(NamesChange(Node,ModifiedNames(regularNames = notify, unapply, x, wait, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, canEqual, productPrefix, notifyAll, readResolve, isInstanceOf, <init>, apply, ==, clone, copy, toString, !=, getClass, copy$default$1, ne, OInt, eq, compare, productIterator, ##, finalize, productElement, hashCode, implicitNames = )), NamesChange(Node$,ModifiedNames(regularNames = notify, unapply, x, wait, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, canEqual, productPrefix, notifyAll, readResolve, isInstanceOf, <init>, apply, ==, clone, copy, toString, !=, getClass, copy$default$1, ne, OInt, eq, compare, productIterator, ##, finalize, productElement, hashCode, implicitNames = )), NamesChange(ListFunctions$,ModifiedNames(regularNames = notify, unapply, x, wait, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, canEqual, productPrefix, notifyAll, readResolve, isInstanceOf, <init>, apply, ==, clone, copy, toString, !=, getClass, copy$default$1, ne, OInt, eq, compare, productIterator, ##, finalize, productElement, hashCode, implicitNames = )), NamesChange(Leaf$,ModifiedNames(regularNames = notify, unapply, x, wait, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, canEqual, productPrefix, notifyAll, readResolve, isInstanceOf, <init>, apply, ==, clone, copy, toString, !=, getClass, copy$default$1, ne, OInt, eq, compare, productIterator, ##, finalize, productElement, hashCode, implicitNames = )), NamesChange(BinTree,ModifiedNames(regularNames = notify, unapply, x, wait, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, canEqual, productPrefix, notifyAll, readResolve, isInstanceOf, <init>, apply, ==, clone, copy, toString, !=, getClass, copy$default$1, ne, OInt, eq, compare, productIterator, ##, finalize, productElement, hashCode, implicitNames = )))[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set(/home/student/hw6/generics/src/test/scala/TestSuite.scala)[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/student/hw6/generics/src/test/scala/TestSuite.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/student/hw6/generics/target/scala-2.11/test-classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 3acada, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-unchecked[0m
+[0m[[0mdebug[0m] [0m	-feature[0m
+[0m[[0mdebug[0m] [0m	-Xfatal-warnings[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/student/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/student/hw6/generics/target/scala-2.11/test-classes:/home/student/hw6/generics/target/scala-2.11/classes:/home/student/.ivy2/cache/edu.umass.cs/compsci220_2.11/jars/compsci220_2.11-1.0.1.jar:/home/student/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.6.jar:/home/student/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.7.jar:/home/student/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 2.674961542 s[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
